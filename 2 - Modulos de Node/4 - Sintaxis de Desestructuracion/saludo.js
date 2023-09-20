@@ -16,7 +16,7 @@ module.exports = {
 }; 
 
 // Sintaxis alternativa
-module.exports.saludar = saludar;
-module.exports.saludarHolaMundo = saludarHolaMundo;
+// module.exports.saludar = saludar;
+// module.exports.saludarHolaMundo = saludarHolaMundo;
 
-console.log(module.exports);
+// console.log(module.exports);

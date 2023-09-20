@@ -2,4 +2,4 @@ function saludar(nombre) {
   return `Hola, ${nombre}`;
 }
 
-saludar("Cesde C3");
+console.log(saludar("Cesde C3"));
